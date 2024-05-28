@@ -1,0 +1,10 @@
+h1{ color: rgb(255, 0, 0);}
+.form_su{
+    border: 2px solid rgb(2, 2, 2);
+    padding: 10px 20px;
+    width: 50%;
+    border-radius: 10px;
+    background-color:rgb(245, 240, 232);
+    margin-bottom: 15px;
+
+}
